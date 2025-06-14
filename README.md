@@ -108,5 +108,8 @@ Tkinter: For building the graphical user interface.
 
 #OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/fd2f19f9-1f76-4ce0-a22b-516b1d6a99ac)
+![Image](https://github.com/user-attachments/assets/684ccd3e-638e-423b-a4fd-0be5719d70ce)
+
 
 
